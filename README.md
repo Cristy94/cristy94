@@ -4,6 +4,8 @@
 ### Currently working on
 - [userTrack - Self-hosted web analytics](https://www.usertrack.net/)
 
+[![Cristians's github stats](https://github-readme-stats.vercel.app/api?username=cristy94)](https://github.com/cristy94/github-readme-stats)
+
 ###  How to reach me
 
 - Twitter: https://twitter.com/XCSme
