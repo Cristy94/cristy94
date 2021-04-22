@@ -11,9 +11,9 @@
 
 ### Favorite things
  - 🏓 Table tennis, also in VR - https://elevenvr.com/
- - ♟
- - 🎹
- - 🎸
+ - ♟Chess (~1600 online blitz)
+ - 🎹 Playing the piano
+ - 🎸Playing the acoustic guitar
 
 <!--
 **Cristy94/cristy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
