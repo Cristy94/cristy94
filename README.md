@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+### Currently working on
+- [userTrack - Self-hosted web analytics](https://www.usertrack.net/)
+
+###  How to reach me
+
+- Twitter: https://twitter.com/XCSme
+
+
+### Favorite things
+ - 🏓 Table tennis, also in VR - https://elevenvr.com/
+ - ♟
+ - 🎹
+ - 🎸
+
 <!--
 **Cristy94/cristy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
