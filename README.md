@@ -4,7 +4,7 @@
 ### Currently working on
 
 #### [userTrack - Self-hosted web analytics](https://www.usertrack.net/)  
-![userTrack](https://i.imgur.com/57lfbGO.png)
+[![userTrack](https://i.imgur.com/57lfbGO.png)](https://www.usertrack.net/)
 
 ### Stats
 
