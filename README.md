@@ -17,7 +17,7 @@
 
 ### Favorite things
  - 🏓 Table tennis, also in VR - https://elevenvr.com/
- - ♟Chess (~1600 online blitz)
+ - ♟Chess (~1900 blitz on lichess.org)
  - 🎹 Playing the piano
  - 🎸Playing the acoustic guitar
 
