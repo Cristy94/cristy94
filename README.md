@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I'm a passionate full-stack developer. 
+
 
 ### Currently working on
 
-#### [userTrack - Self-hosted web analytics](https://www.usertrack.net/)  
+#### [userTrack - Self-hosted web analytics](https://www.usertrack.net/)
 [![userTrack](https://i.imgur.com/57lfbGO.png)](https://www.usertrack.net/)
+
+I am also trying to promote and make self-hosting more accessible in general.
 
 ### Stats
 
