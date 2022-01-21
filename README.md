@@ -5,8 +5,8 @@ I'm a passionate full-stack developer.
 
 ### Currently working on
 
-#### [userTrack - Self-hosted web analytics](https://www.usertrack.net/)
-[![userTrack](https://i.imgur.com/57lfbGO.png)](https://www.usertrack.net/)
+#### [UXWizz - Self-hosted web analytics](https://www.uxwizz.com/)
+[![UXWizz](https://www.uxwizz.com/img/uxwizz_logo.png)](https://www.uxwizz.com/)
 
 I am also trying to promote and make self-hosting more accessible in general.
 
