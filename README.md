@@ -21,7 +21,7 @@ I am also trying to promote and make self-hosting more accessible in general.
 
 ### Favorite things
  - 🏓 Table tennis, also in VR - https://elevenvr.com/
- - ♟Chess (~1900 blitz on lichess.org)
+ - ♟Chess
  - 🎹 Playing the piano
  - 🎸Playing the acoustic guitar
 
