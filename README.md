@@ -20,7 +20,7 @@ I am also trying to promote and make self-hosting more accessible in general.
 
 
 ### Favorite things
- - 🏓 Table tennis, also in VR - https://elevenvr.com/
+ - 🏓 Table tennis (also in VR - https://elevenvr.com)
  - ♟Chess
  - 🎹 Playing the piano
  - 🎸Playing the acoustic guitar
