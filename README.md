@@ -3,12 +3,8 @@
 I'm a passionate full-stack developer. 
 
 
-### Currently working on
-
 #### [UXWizz - Self-hosted web analytics](https://www.uxwizz.com/)
 [![UXWizz](https://www.uxwizz.com/img/uxwizz_logo.png)](https://www.uxwizz.com/)
-
-I am also trying to promote and make self-hosting more accessible in general.
 
 ### Stats
 
