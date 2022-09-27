@@ -6,6 +6,8 @@ I'm a passionate full-stack developer.
 #### [UXWizz - Self-hosted web analytics](https://www.uxwizz.com/)
 [![UXWizz](https://www.uxwizz.com/img/uxwizz_logo.png)](https://www.uxwizz.com/)
 
+#### [WPLytic - WordPress Analytics Plugin](https://www.wplytic.com/)
+
 ### Stats
 
 [![Cristians's github stats](https://github-readme-stats.vercel.app/api?username=cristy94)](https://github.com/cristy94/github-readme-stats)
