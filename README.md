@@ -2,10 +2,8 @@
 
 I'm a passionate full-stack developer. 
 
-
+Some of my projects:
 #### [UXWizz - Self-hosted web analytics](https://www.uxwizz.com/)
-[![UXWizz](https://www.uxwizz.com/img/uxwizz_logo.png)](https://www.uxwizz.com/)
-
 #### [WPLytic - WordPress Analytics Plugin](https://www.wplytic.com/)
 
 ### Stats
