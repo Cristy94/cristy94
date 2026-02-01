@@ -8,7 +8,7 @@ Some of my projects:
 
 ### Stats
 
-[![Cristians's github stats]([https://gh-stats.work/API?username=cristy94)](https://github.com/Cristy94)
+[![Cristian's GitHub Stats](https://gh-stats.work/api?username=Cristy94)](https://github.com/Cristy94)
 
 ###  How to reach me
 
